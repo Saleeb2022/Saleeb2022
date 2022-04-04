@@ -1,6 +1,6 @@
 ### Hi there Hello, This is my Github, I am still developing it until it really is representing me. 👋
 
-<!--
+
 **Saleeb2022/Saleeb2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: .. 
 - 😄 Pronouns: .. He/Him
 - ⚡ Fun fact: ...
--->
+
