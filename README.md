@@ -1,6 +1,7 @@
-## Hi there Hello, My name is Saleeb, and I am student by Hack Your Future.👋
+## Hi there Hello, My name is Saleeb, and I am a student by Hack Your Future.👋
 ### Wed develpment Student
 ### I learned about HTML, CSS, and currently I am learning about JavaScript.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaleebGerges)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
@@ -12,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: .. 
 - 😄 Pronouns: .. He/Him
 - ⚡ Fun fact: ...
-
