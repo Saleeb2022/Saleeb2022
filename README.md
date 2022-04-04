@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Saleeb Gerges
 #### Web Developer Student HYF
 A student at Hack Your Future. 🔗https://www.hackyourfuture.net/ 👋
-HYF is 7 monthly programs for web development. 🔗 https://www.hackyourfuture.net/program/
+HYF is 7 monthly programs for web development.  🔗https://www.hackyourfuture.net/program/
 
 Skills:  JS / HTML / CSS
 
