@@ -1,4 +1,4 @@
-### Hi there Hello, This is my Github, I am still developing it until it really is representing me. 👋
+### Hi there Hello, My Name is Saleeb, and I am student by Hack Your Future Coding Program Course (Web developer).👋
 
 
 Here are some ideas to get you started:
