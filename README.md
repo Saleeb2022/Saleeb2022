@@ -1,8 +1,8 @@
 ### Hi there 👋, Saleeb Gerges
 #### Web Developer Student HYF
-Hi there Hello, My name is Saleeb, and I am a student at Hack Your Future. 🔗https://www.hackyourfuture.net/ 👋
+I am Saleeb, a student at Hack Your Future. 🔗https://www.hackyourfuture.net/ 👋
 Wed development Student
-It's 7 monthly programs for web development program. 🔗 https://www.hackyourfuture.net/program/
+It's 7 monthly programs for web development. 🔗 https://www.hackyourfuture.net/program/
 
 Skills:  JS / HTML / CSS
 
