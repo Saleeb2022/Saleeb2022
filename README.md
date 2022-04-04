@@ -5,7 +5,8 @@ A student at Hack Your Future. 🔗https://www.hackyourfuture.net/
 HYF is 7 monthly programs for web development.  
 🔗https://www.hackyourfuture.net/program/
 
-Skills:  JS / HTML / CSS
+## Skils and Experince:  
+* 💻 HTML / CSS / JS
 
 - 🔭 I’m currently working on this page. 
 
