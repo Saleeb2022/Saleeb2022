@@ -1,5 +1,5 @@
-### Hi there Hello, My name is Saleeb, and I am student by Hack Your Future Coding Program Course.👋
-## Wed develpment Student
+## Hi there Hello, My name is Saleeb, and I am student by Hack Your Future Coding Program Course.👋
+### Wed develpment Student
 
 Here are some ideas to get you started:
 
